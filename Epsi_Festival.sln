@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epsi_Festival", "Epsi_Festival\Epsi_Festival.csproj", "{EA9ADD4A-4DEA-4BFD-ABEE-5D1D87F0FD88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA9ADD4A-4DEA-4BFD-ABEE-5D1D87F0FD88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA9ADD4A-4DEA-4BFD-ABEE-5D1D87F0FD88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA9ADD4A-4DEA-4BFD-ABEE-5D1D87F0FD88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA9ADD4A-4DEA-4BFD-ABEE-5D1D87F0FD88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82031DEE-0266-4D92-8E10-5D9CF1B272FC}
+	EndGlobalSection
+EndGlobal
